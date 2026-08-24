@@ -1,0 +1,13 @@
+
+
+
+
+reject contract chat must be disabled 
+add driver log section even user is logged in
+
+
+
+compare states
+usa,austial,ostrus
+
+
